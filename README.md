@@ -63,5 +63,3 @@ By undertaking this project, you will gain hands-on experience with:
 - **Operating Systems:** Linux (Ubuntu 22.04), macOS
 
 ---
-
-Feel free to customize this README further to match your personal style or add any additional information you find relevant.
